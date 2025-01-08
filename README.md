@@ -19,7 +19,7 @@ TerraSolstice is a forward-thinking company committed to transforming urban land
 
 ## Features
 
-- **Solar-Powered Hardware:** Cutting-edge hardware solutions tailored for smart city infrastructure.
+- **Geoengineered Software:** Cutting-edge software solutions tailored for smart city infrastructure.
 - **Open-Source Blockchain:** A robust blockchain architecture for secure and transparent data management.
 - **Data Optimization:** Advanced algorithms for optimizing environmental data, ensuring efficiency.
 
@@ -42,4 +42,3 @@ We welcome contributions from the community. To contribute to TerraSolstice, ple
 ## License
 
 TerraSolstice is licensed under the [MIT License](LICENSE). See the [License](LICENSE) file for details.
-
